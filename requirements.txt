@@ -1,2 +1,6 @@
 python_dotenv
 langchain
+langchain_openai
+langchain_community
+docarray
+pydantic==1.10.8
